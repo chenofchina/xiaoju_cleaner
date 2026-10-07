@@ -1,0 +1,26 @@
+# 构建产物
+bin/
+obj/
+build/
+build2/
+dist/
+dist-fd/
+dist-sc/
+spec2/
+__pycache__/
+*.pyc
+*.pyo
+
+# 打包 / 调试残留
+*.spec
+tmptest/
+dbg*.bat
+exp*.bat
+s_test*.bat
+dups.json
+
+# 编辑器
+.vs/
+.vscode/
+.idea/
+*.user
